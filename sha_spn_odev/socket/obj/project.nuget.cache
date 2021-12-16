@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4+6JSSjFrlZfscb1yotKOwMgegmQA8BU1dgIUO4bG4xrRNJAFnO4zDiKCM9JRoM4hsA8h8wsKC+Za8+fdPLzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\sha_spn_odev\\socket\\socket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\supersimpletcp\\2.4.1.2\\supersimpletcp.2.4.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

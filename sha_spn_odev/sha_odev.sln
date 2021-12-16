@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sha_odev", "sha_odev\sha_odev.csproj", "{EEB3CA56-94EA-41A0-8287-7911CABA2E49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "socket", "socket\socket.csproj", "{0A135C48-5AB8-4D60-B0A2-3EE2C7430CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB3CA56-94EA-41A0-8287-7911CABA2E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB3CA56-94EA-41A0-8287-7911CABA2E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB3CA56-94EA-41A0-8287-7911CABA2E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB3CA56-94EA-41A0-8287-7911CABA2E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A135C48-5AB8-4D60-B0A2-3EE2C7430CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A135C48-5AB8-4D60-B0A2-3EE2C7430CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A135C48-5AB8-4D60-B0A2-3EE2C7430CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A135C48-5AB8-4D60-B0A2-3EE2C7430CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C4659D-6494-4F45-A998-4BF30B866012}
+	EndGlobalSection
+EndGlobal
