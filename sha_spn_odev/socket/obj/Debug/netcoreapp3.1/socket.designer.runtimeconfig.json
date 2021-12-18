@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\murat\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\murat\\.nuget\\packages"
+      "C:\\Users\\ceyda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ceyda\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

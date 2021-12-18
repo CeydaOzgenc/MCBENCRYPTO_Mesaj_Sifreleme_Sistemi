@@ -291,11 +291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murat\\Desktop\\sha_spn_odev\\socket\\socket.csproj",
+      "projectUniqueName": "C:\\Users\\murat\\Desktop\\sha_odev\\socket\\socket.csproj",
       "projectName": "socket",
-      "projectPath": "C:\\Users\\murat\\Desktop\\sha_spn_odev\\socket\\socket.csproj",
+      "projectPath": "C:\\Users\\murat\\Desktop\\sha_odev\\socket\\socket.csproj",
       "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murat\\Desktop\\sha_spn_odev\\socket\\obj\\",
+      "outputPath": "C:\\Users\\murat\\Desktop\\sha_odev\\socket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murat\\AppData\\Roaming\\NuGet\\NuGet.Config",

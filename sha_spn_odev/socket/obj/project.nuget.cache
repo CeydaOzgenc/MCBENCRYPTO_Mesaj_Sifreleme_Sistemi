@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4+6JSSjFrlZfscb1yotKOwMgegmQA8BU1dgIUO4bG4xrRNJAFnO4zDiKCM9JRoM4hsA8h8wsKC+Za8+fdPLzQ==",
+  "dgSpecHash": "6dwLnR8hoYdwDxcmbqpQ4NkutxLszmeRNvEHDNubFlXWcnoTpTRH0m2xL5jSMGpmb/+/BS96IlBMGBhJm14uqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\murat\\Desktop\\sha_spn_odev\\socket\\socket.csproj",
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\sha_odev\\socket\\socket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\murat\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

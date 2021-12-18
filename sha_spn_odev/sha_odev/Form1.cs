@@ -126,7 +126,8 @@ namespace sha_odev
             WebClient myWebClient = new WebClient();
             string[] yol = (Application.StartupPath).Split('\\');
             string yol_dosya = yol[0] + "\\" + yol[1] + "\\" + yol[2] + "\\" + yol[3] + "\\" + yol[4] + "\\" + yol[5] + "\\File\\" + lb_dosya.Text;
-            myWebClient.DownloadFile(yol_dosya, lb_dosya.Text);
+            string indir = yol[0] + "\\" + yol[1] + "\\" + yol[2] + "\\Downloads\\" + lb_dosya.Text;
+            myWebClient.DownloadFile(yol_dosya, indir);
         }
 
         private void btn_gonder_Click(object sender, EventArgs e)

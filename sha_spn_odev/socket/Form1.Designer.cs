@@ -179,7 +179,7 @@ namespace socket
             // 
             this.lb_spn.AutoSize = true;
             this.lb_spn.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lb_spn.Location = new System.Drawing.Point(25, 628);
+            this.lb_spn.Location = new System.Drawing.Point(274, 558);
             this.lb_spn.Name = "lb_spn";
             this.lb_spn.Size = new System.Drawing.Size(84, 22);
             this.lb_spn.TabIndex = 22;
@@ -189,7 +189,7 @@ namespace socket
             // 
             this.lb_sha.AutoSize = true;
             this.lb_sha.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lb_sha.Location = new System.Drawing.Point(25, 597);
+            this.lb_sha.Location = new System.Drawing.Point(25, 614);
             this.lb_sha.Name = "lb_sha";
             this.lb_sha.Size = new System.Drawing.Size(97, 22);
             this.lb_sha.TabIndex = 23;
